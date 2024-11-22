@@ -17,6 +17,7 @@ Follow these simple steps to download and install **Pacify** on your system! �
 - Ensure all files are extracted properly.
 
 - this is how the files should look:
+  
   ![files](./images/files.jpg)
 
 ---
@@ -31,10 +32,13 @@ Follow these simple steps to download and install **Pacify** on your system! �
 
 ### 4️⃣ Add **Pacify** to Steam
 1. Open **Steam** and click on **Add a Game** located in the bottom-left corner.
+   
   ![addgame](./images/addgame.jpg)
 
-2. Select **Add a Non-Steam Game...** from the menu.  
-  ![nonsteam](./images/nonsteam.jpg)
+2. Select **Add a Non-Steam Game...** from the menu.
+ 
+  ![nonsteam](./images/nonsteam.png)
+
 ---
 
 ### 5️⃣ Locate **Pacify.exe**
